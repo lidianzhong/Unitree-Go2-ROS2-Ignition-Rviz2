@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+install/
+
+# Generated files
+log/
+
+# IDE files
+.vscode/
+.idea/
